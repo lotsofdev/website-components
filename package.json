@@ -1,5 +1,5 @@
 {
-    "name": "",
+    "name": "@lotsof/website-components",
     "type": "module",
     "version": "1.0.0",
     "scripts": {
@@ -23,11 +23,9 @@
         "@lotsof/sugarcss": "^1.0.0",
         "@pixi/filter-crt": "^5.1.1",
         "astro": "^4.6.3",
-        "i": "^0.3.7",
-        "npm": "^10.5.2",
-        "pixi.js": "^8.1.0",
         "typescript": "^5.4.5",
-        "@lotsof/types": "^1.0.0"
+        "@lotsof/types": "^1.0.0",
+        "react": "^18.0.0"
     },
     "devDependencies": {
         "vite": "^5.2.12"
